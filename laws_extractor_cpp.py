@@ -1,0 +1,2 @@
+#email us if you want C/C++ version of laws_filters_extractor
+#The program is written as Visual Studio project which needs OpenCV3 support and has bunch of subfiles, too troublesome to upload without zip.
